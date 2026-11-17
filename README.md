@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sashank-Santhosh
 - 👀 I’m interested in Gaming, Sports, Films, Script writing, Coding
-- 🌱 I’m currently doing B.TECH in Computer Science and Engineering
+- 🌱 I’m currently doing Master's in Data Science
 - 💞️ I’m looking to collaborate for now none.
 - 📫 How to reach me - mail me to sashanksanthosh25@gmail.com
 - 😄 Pronouns: he/him
